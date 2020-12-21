@@ -10,7 +10,8 @@ Bharat Aggarwal - 18UCC018
 
 Requirements to run these codes :
 Python 3.6 and above
-Python packages : numpy, pandas, sklearn, matplotlib
+
+Python packages : numpy, pandas, sklearn, matplotlib, scikit-learn
 
 Dataset 
 We have used the dataset https://archive.ics.uci.edu/ml/datasets/Chronic_Kidney_Disease
